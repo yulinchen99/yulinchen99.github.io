@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<!-- Education
 ======
 * M.S. in Computer Science, Tsinghua University, 2024
-* B.A. in Linguistics, Tsinghua University, 2021
+* B.A. in Linguistics, Tsinghua University, 2021 -->
