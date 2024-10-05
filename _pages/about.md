@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am **Yulin Chen**, a first-year PhD student at New York University, co-advised by [Prof. Chen Zhao](http://www.chenz.umiacs.io/) and [Prof. He He](https://hhexiy.github.io/). I am interested in understanding language model behaviors, specifically *why do they fail* and *how to further improve them*. I obtained bachelor and master degree both from Tsinghua University. During my master, I have worked on prompting and large language model alignment in [THUNLP](https://nlp.csai.tsinghua.edu.cn/).
+I am **Yulin Chen**, a first-year PhD student at New York University, co-advised by [Prof. Chen Zhao](http://www.chenz.umiacs.io/) and [Prof. He He](https://hhexiy.github.io/). I am generally interested in understanding language model behaviors, particularly on *reasoning* and *in-context learning*. I obtained bachelor and master degrees both from Tsinghua University. During my master, I have worked on prompting and large language model alignment in [THUNLP](https://nlp.csai.tsinghua.edu.cn/).
 
 
 Education
