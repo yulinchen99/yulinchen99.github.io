@@ -12,8 +12,8 @@ I am **Yulin Chen**, a first-year PhD student at New York University, co-advised
 
 News
 ====
-[25/05] One paper accpted to ACL 2025 on [model merging](https://arxiv.org/abs/2403.08281)
-[25/04] One paper released on understanding [reasoning models](https://arxiv.org/abs/2504.05419)
+* [25/05] One paper accpted to ACL 2025 on [model merging](https://arxiv.org/abs/2403.08281)
+* [25/04] One paper released on understanding [reasoning models](https://arxiv.org/abs/2504.05419)
 
 
 Education
