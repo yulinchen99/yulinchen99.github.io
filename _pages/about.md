@@ -8,7 +8,12 @@ redirect_from:
 ---
 
 
-I am **Yulin Chen**, a first-year PhD student at New York University, co-advised by [Prof. Chen Zhao](http://www.chenz.umiacs.io/) and [Prof. He He](https://hhexiy.github.io/). I am generally interested in understanding language model behaviors, particularly on *reasoning* and *representation engineering/alignment*. I obtained bachelor and master degrees both from Tsinghua University. During my master, I have worked on prompting and large language model alignment in [THUNLP](https://nlp.csai.tsinghua.edu.cn/).
+I am **Yulin Chen**, a first-year PhD student at New York University, co-advised by [Prof. Chen Zhao](http://www.chenz.umiacs.io/) and [Prof. He He](https://hhexiy.github.io/). I am generally interested in understanding language model behaviors, particularly on *reasoning* and *representation engineering/alignment*. I obtained bachelor and master degrees both from Tsinghua University. During my master, I have worked on prompting and large language model alignment at [THUNLP](https://nlp.csai.tsinghua.edu.cn/).
+
+News
+====
+[25/05] One paper accpted to ACL 2025 on [model merging](https://arxiv.org/abs/2403.08281)
+[25/04] One paper released on understanding [reasoning models](https://arxiv.org/abs/2504.05419)
 
 
 Education
