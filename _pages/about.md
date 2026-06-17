@@ -12,7 +12,7 @@ I am **Yulin Chen**, a PhD student at New York University, co-advised by [Prof. 
 
 📢 News
 ----
-* [2026.05] 🎉 One paper accepted to ICML 2026 on unlearnability phenomenon in RLVR
+* [2026.05] 🎉 One paper accepted to ICML 2026 on [unlearnability phenomenon in RLVR](https://arxiv.org/pdf/2605.16787)
 * [2025.09] One paper accepted to COLM 2025 on [understanding reasoning models](https://arxiv.org/abs/2504.05419)
 
 
@@ -25,6 +25,7 @@ I am **Yulin Chen**, a PhD student at New York University, co-advised by [Prof. 
 
 📄 Selected Publications
 ----
+* **Chen Y**, He H, Zhao C. The Unlearnability Phenomenon in RLVR for Language Models. ICML 2026. [[Paper]](https://arxiv.org/pdf/2605.16787) [[Code]](https://github.com/yulinchen99/unlearnability-rlvr)
 * Zhang A, **Chen Y**, Pan J, et al. Reasoning Models Know When They're Right: Probing Hidden States for Self-Verification. COLM 2025. [[Paper]](https://arxiv.org/pdf/2504.05419) [[Code]](https://github.com/AngelaZZZ-611/reasoning_models_probing)
 * **Chen Y**, Ding N, Zheng H, et al. Empowering Private Tutoring by Chaining Large Language Models. CIKM 2024. [[Paper]](https://arxiv.org/pdf/2309.08112)
 * Ding N\*, **Chen Y**\*, Xu B, et al. Enhancing Chat Language Models by Scaling High-quality Instructional Conversations. EMNLP 2023. [[Paper]](https://aclanthology.org/2023.emnlp-main.183.pdf)
@@ -35,4 +36,5 @@ I am **Yulin Chen**, a PhD student at New York University, co-advised by [Prof. 
 
 💼 Working Experience
 ----
+* Research intern at Meta Superintelligence Labs post-training team, 2026.06 - 2026.08
 * Teaching Assistant for DSGA 1011 Fundamentals of Natural Language Processing, Fall 2025
